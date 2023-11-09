@@ -140,4 +140,6 @@ End Sub
 **Step 6: Save Your Workbook**
 - Now save as your workbook as a macro-enabled file (usually with the ".xlsm" extension) if you want to retain the VBA code.
 
-That's it! You've enabled Developer Mode and added a VBA module in Excel. You can start writing and running your VBA macros from the Developer tab.
+You need to change your login id and password and the 3rd column of the Credentials sheets with your course IDS directly copied from AIS, the rest of the columns don't matter:
+<img width="648" alt="image" src="https://github.com/shantanudash7/shantanudash7/assets/139974556/0fa6365a-4cb7-4d46-b964-b71d739157cd">
+
